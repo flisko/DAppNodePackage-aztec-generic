@@ -10,5 +10,17 @@
     "uploadedTo": {
       "remote": "Thu, 07 Aug 2025 14:04:05 GMT"
     }
+  },
+  "0.1.2": {
+    "hash": "/ipfs/QmS3c8EyvVSFGLsAuTU4e7cRkpDtGZVA46fThqxdhKAKQg",
+    "uploadedTo": {
+      "dappnode": "Wed, 17 Sep 2025 22:43:48 GMT"
+    }
+  },
+  "0.1.3": {
+    "hash": "/ipfs/QmTEaPpAagSYGN4eTdBNYuUZZGJYov9UwhqLvNumJm727u",
+    "uploadedTo": {
+      "dappnode": "Wed, 17 Sep 2025 22:59:04 GMT"
+    }
   }
 }
